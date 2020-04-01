@@ -17,10 +17,8 @@ Go to Settings page then Proxy tab, And select Tunnel option.
 
 Then enter `WPTPTunnel.php` URL on input box, For example: `https://mydomain.tld/telegram-tunnel/WPTPTunnel.php`
 
-
+### Persian/Farsi Guide
 <div dir='rtl' align='right'>
-### راهنمای فارسی
-
 با توجه به فیلتر بودن تلگرام در ایران، در صورتی که از سرویس‌های داخلی برای میزبانی سایت خود استفاده می‌کنید، احتمال دارد در دریافت یا ارسال درخواست به تلگرام با مشکل مواجه شوید. برای حل این موضوع می‌توانید از امکان PHP Tunnel Proxy در افزونه [WP Telegram Pro](https://wordpress.org/plugins/wp-telegram-pro) استفاده کنید.
 
 برای استفاده از این امکان نیاز به این دارید فضای میزبانی (با فضای کم) خارج از ایران را به همراه دامنه اجاره کنید، و فایل `WPTPTunnel.php` را برروی فضای میزبانی آپلود کنید.
