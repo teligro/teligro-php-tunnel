@@ -1,0 +1,5 @@
+# Deny access to .htaccess
+<Files .botinfo>
+Order allow,deny
+Deny from all
+</Files>
