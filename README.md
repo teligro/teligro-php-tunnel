@@ -7,8 +7,10 @@ Currently, the telegram is filtered/blocked in Iran, Russia, and China.
 
 ### Hot to use:
 
-Clone or download this repository and upload it to another server that can send/receive requests from the telegram.
-
+Clone or [download](https://github.com/parsakafi/wp-telegram-pro-php-tunnel/archive/master.zip) this repository and upload it to another server that can send/receive requests from the telegram.
+```bash
+git clone https://github.com/parsakafi/wp-telegram-pro-php-tunnel.git
+```
 Make sure the `WPTPTunnel.php` file directory has read and write permission.
 
 Activate [WP Telegram Pro](https://wordpress.org/plugins/wp-telegram-pro) plugin on your wordpress website.
@@ -22,8 +24,8 @@ Then enter `WPTPTunnel.php` URL on input box, For example: `https://mydomain.tld
 
 با توجه به فیلتر بودن تلگرام در ایران، در صورتی که از سرویس‌های داخلی برای میزبانی سایت خود استفاده می‌کنید، احتمال دارد در دریافت یا ارسال درخواست به تلگرام با مشکل مواجه شوید. برای حل این موضوع می‌توانید از امکان تونل پروکسی در افزونه [WP Telegram Pro](https://wordpress.org/plugins/wp-telegram-pro) استفاده کنید.
 
-برای استفاده از این امکان نیاز به این دارید فضای میزبانی (با فضای کم) در خارج از ایران را به همراه دامنه اجاره کنید، و مخزن جاری را دانلود یا Clone بگیرید و برروی فضای میزبانی جدید آپلود کنید.
-مطمئن شوید که که پوشه فایلها دسترسی خواندن و نوشتن داشته باشد.
+برای استفاده از این امکان نیاز به این دارید فضای میزبانی (با فضای کم) در خارج از ایران را به همراه دامنه اجاره کنید، و مخزن جاری را [دانلود](https://github.com/parsakafi/wp-telegram-pro-php-tunnel/archive/master.zip) یا Clone بگیرید و برروی فضای میزبانی جدید آپلود کنید.
+مطمئن شوید که پوشه فایلها دسترسی خواندن و نوشتن داشته باشد.
 
 بعد از آپلود می‌توانید با وارد کردن آدرس فایل در تنظیمات » پروکسی » تونل، از این فایل به عنوان یک تونل بین وبسایت و تلگرام استفاده کنید.
 برای نمونه: `https://mydomain.tld/telegram-tunnel/WPTPTunnel.php`
