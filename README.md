@@ -5,7 +5,7 @@ This is useful for websites host that have blocked telegram requests.
 Currently, the telegram is filtered/blocked in Iran, Russia, and China.
 
 
-### Hot to use:
+### How to use:
 
 Clone or [download](https://github.com/parsakafi/wp-telegram-pro-php-tunnel/archive/master.zip) this repository and upload it to another server that can send/receive requests from the telegram.
 ```bash
