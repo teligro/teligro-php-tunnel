@@ -13,10 +13,8 @@ git clone https://github.com/parsakafi/wp-telegram-pro-php-tunnel.git
 ```
 Make sure the `WPTPTunnel.php` file directory has read and write permission.
 
-Activate [WP Telegram Pro](https://wordpress.org/plugins/wp-telegram-pro) plugin on your wordpress website.
-
-Go to Settings page then Proxy tab, And select Tunnel option.
-
+Activate [WP Telegram Pro](https://wordpress.org/plugins/wp-telegram-pro) plugin on your wordpress website, 
+Go to Settings page then Proxy tab, And select Tunnel option, 
 Then enter `WPTPTunnel.php` URL on input box, For example: `https://mydomain.tld/telegram-tunnel/WPTPTunnel.php`
 
 ### Persian/Farsi Guide
